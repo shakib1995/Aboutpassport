@@ -1,0 +1,72 @@
+body{
+    background: #ff0 url(im-1.jpg) fixed center;
+    background-size: cover;
+}
+.a{
+    width: 1080px;
+    height: 360px;
+    background: url(im-6.jpg) fixed center;
+    background-size:cover;
+    margin: 40px auto;
+    font-size:65px;
+    color:white;
+    text-shadow:2px 2px deeppink;
+}
+h1{
+    color:deeppink;
+    font-size:60px;
+    text-align:center;
+    text-shadow:2px 2px yellow;
+}
+h2{
+    color:white;
+    font-size:33px;
+}
+.b{
+    text-decoration: none;
+    padding:10px 20px;
+}
+.c{
+    text-decoration:none;
+    padding:10px 20px;
+}
+.b:link{
+    background:red;
+    color:Yellow;
+    text-shadow:1.5px 1.5px green;
+}
+.b:visited{
+    background:red;
+    color:Yellow;
+    text-shadow:1.5px 1.5px green;
+}
+.b:hover{
+    background:yellow;
+    color:deeppink;
+    text-shadow:1.5px 1.5px blue;
+}
+.b:active{
+    background:green;
+    color:white;
+    text-shadow:1.5px 1.5px deeppink;
+}
+.c:link{
+    background:blue;
+    color:Yellow;
+    text-shadow:1.5px 1.5px deeppink;
+}
+.c:visited{
+    background:blue;
+    color:Yellow;
+    text-shadow:1.5px 1.5px deeppink;
+}
+.c:hover{
+    background:yellow;
+    color:deeppink;
+    text-shadow:1.5px 1.5px blue;
+}
+.c:active{
+    background:green;
+    color:white;
+    text-shadow:1.5px 1.5px deeppink;
+}
